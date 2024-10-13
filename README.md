@@ -12,7 +12,7 @@ Maven installed for dependency management
 
 Process of executing tests
 
-Clone this repository:
+Clone repository:
 
  ```
     bash
