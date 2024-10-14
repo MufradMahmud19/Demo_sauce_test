@@ -16,7 +16,7 @@ Clone repository:
 
  ```
     bash
-    git clone https://github.com/MosleAlDeinSoad/SauceDemoAutomationTest.git
+    git clone https://github.com/MufradMahmud19/Demo_sauce_test.git
     cd assignment4
  ```
 
